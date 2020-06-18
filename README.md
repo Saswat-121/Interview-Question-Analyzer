@@ -1,6 +1,7 @@
 # Interview-Question-Analyzer
 Keep records of the questions asked by companies along with their topics, difficulty level and no of times asked. It will be very helpful for the students preparing for interviews by analyzing the trend of different companies.
-#Working procedure
+
+Working procedure
 1. Download any free web server software example xampp.
 2. Download the files and place the "IQA" directory in the htdocs folder of xampp.
 3. Open XAMPP and click on "Apache" and "MySQL". This creates a local web server for your computer files.
